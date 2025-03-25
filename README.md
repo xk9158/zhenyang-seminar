@@ -4,8 +4,8 @@
 https://elmas3.github.io/mao-seminar/
 
 #成员
-a
-b
+真央教授
+elmas
 wakaba
 
 # 目录
